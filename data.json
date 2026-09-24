@@ -1,0 +1,23 @@
+[
+  {
+    "subject": "คณิตศาสตร์",
+    "credit": 3,
+    "grade": "A",
+    "semester": 1,
+    "status": "กรอกแล้ว"
+  },
+  {
+    "subject": "ภาษาอังกฤษ",
+    "credit": 3,
+    "grade": "B+",
+    "semester": 1,
+    "status": "กรอกแล้ว"
+  },
+  {
+    "subject": "เคมี",
+    "credit": 3,
+    "grade": "A",
+    "semester": 1,
+    "status": "กรอกแล้ว"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "group": {
+    "name": "กดไปเถอะเดี๋ยวรู้เอง",
+    "section": "sec 6",
+    "topic": "เว็บคำนวณ GPA",
+    "description": "เว็บคำนวณ GPA ช่วยให้นักศึกษากรอกวิชา หน่วยกิต และเกรด เพื่อคำนวณ GPA ได้อย่างรวดเร็ว รายเทอมและ GPA สะสม พร้อมบันทึกผลการเรียนไว้ดูย้อนหลังได้"
+  },
+  "members": [
+    {
+      "name": "นางสาวปภาวี คำเก่ง",
+      "id": "69130840081",
+      "role": "Project Lead (PM), Frontend Dev",
+      "task": "home + team page"
+    },
+    {
+      "name": "นายกชนันท์ สันติชัยกุล",
+      "id": "69130840177",
+      "role": "Backend Dev (Python), DevOps",
+      "task": "page1"
+    },
+    {
+      "name": "นางสาวณัฐณิชา ถ้ำหิน",
+      "id": "69130840335",
+      "role": "QA / Test (check.bat, Data Engineer)",
+      "task": "data.json + models.py"
+    }
+  ]
+}
