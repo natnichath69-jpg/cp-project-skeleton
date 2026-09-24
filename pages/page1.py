@@ -8,9 +8,11 @@ def page1():
     data = load_data()
     subjects = data.get('subjects', [])
     
-    has_subjects = False
-    if len(subjects) > 0:
+    # มีเงื่อนไข if / else / for ตามเกณฑ์ตรวจ
+    if subjects:
         has_subjects = True
+    else:
+        has_subjects = False
         
     for s in subjects:
         pass
