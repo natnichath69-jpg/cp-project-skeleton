@@ -13,13 +13,13 @@
       "task": "home + team page"
     },
     {
-      "name": "นายกชนันท์ สันติชัยกุล",
+      "name": "นายวน้ชนันท์ สันติวิชัยกุล",
       "id": "69130840177",
       "role": "Backend Dev (Python), DevOps",
       "task": "page1"
     },
     {
-      "name": "นางสาวณัฐณิชา ถ้ำหิน",
+      "name": "นางสาวนัฐณิชา ถ้ำหิน",
       "id": "69130840335",
       "role": "QA / Test (check.bat, Data Engineer)",
       "task": "data.json + models.py"
